@@ -1,0 +1,31 @@
+.p-attempts{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+    font-size: small;
+}
+.check-btn{
+    width: 25%;
+}
+@media only screen and (max-width: 995px) {
+    .check-btn{
+      width: auto;
+      margin-top: 20px;
+    }
+  }
+.flag-item{
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+}
+.flag-item:hover{
+    background-color: rgb(203, 207, 210);
+}
+.side-img{
+    width: 20px;
+    height: 15px;
+}
+.side-item{
+    display: grid;
+}

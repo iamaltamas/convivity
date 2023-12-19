@@ -1,0 +1,31 @@
+.side-bar-body{
+    width: 400px;
+    height: 100vh;
+    background-color: #EAECF0;
+}
+.lesson-box{
+    background-color:#F9FAFB;
+    height: 40px;
+    align-items: center;
+    padding-left: 10px;
+}
+.card-btn-body{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #EAECF0;
+}
+.side-bar-btn{
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px;
+    cursor: pointer;
+}

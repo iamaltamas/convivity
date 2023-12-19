@@ -1,0 +1,16 @@
+.answer-input{
+    width: 73%;
+    text-align: center;
+    height: 40px;
+}
+@media only screen and (max-width: 995px) {
+    .answer-input{
+        width: 100%;
+    }
+  }
+.input-pattern{
+    width: 50px;
+    text-align: center;
+    height: 50px;
+    font-weight: bold;
+}

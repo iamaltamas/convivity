@@ -1,0 +1,10 @@
+.courses-body{
+    display: flex;
+    padding-right: 2%;
+    height: 100vh;
+}
+@media only screen and (max-width: 787px) {
+    .courses-body{
+      display:block
+    }
+  }

@@ -1,0 +1,9 @@
+.sort-input{
+    width: 73%;
+    height: 40px;
+    margin-top: 5px;
+    padding: 12px 20px;
+}
+.sort-input:focus{
+    border: 1px solid orange;
+}
